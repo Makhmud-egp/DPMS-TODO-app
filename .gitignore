@@ -14,5 +14,5 @@ db.sqlite3
 
 .env
 
-templates/
+template/
 postgres_date/
